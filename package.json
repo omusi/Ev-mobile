@@ -187,7 +187,7 @@
     "jest-junit": "^13.0.0",
     "jetifier": "^2.0.0",
     "metro": "^0.73.3",
-    "metro-config": "^0.73.3",
+    "metro-config": "^0.80.9",
     "metro-react-native-babel-preset": "^0.73.3",
     "npm-check": "^6.0.1",
     "patch-package": "^6.5.0",
